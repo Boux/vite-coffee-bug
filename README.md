@@ -13,6 +13,8 @@ If you downgrade to vue 3.2, it should build correctly
 ```
 npm install vue@3.2
 npm run build
-# or
+```
+or
+```
 npm run dev
 ```
