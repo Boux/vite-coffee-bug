@@ -1,6 +1,4 @@
 # Replicating the bug
-
-Quickstart
 ```
 git clone https://github.com/Boux/vite-coffee-bug.git
 cd vite-coffee-bug
